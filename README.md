@@ -43,6 +43,10 @@ def recommend_courses(profile: str, completed_ids: List[str]) -> List[Tuple[str,
 
 assignment2.ipynb contains all the necessary code and it can be run directly after above setup steps.
 
+# Output PDF Submission
+
+assignment2.pdf contains the notebook run as pdf
+
 
 # Sample Input Queries
 
